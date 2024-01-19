@@ -4,7 +4,7 @@
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/gabs-martins/Faq's/blob/main/LICENSE) 
 
 
-[https://gabs-martins.github.io/Faq-s/](https://gabs-martins.github.io/Faq-s/)
+<a href="https://gabs-martins.github.io/Faq-s/" target="_blank">https://gabs-martins.github.io/Faq-s/</a>
 
 
 O projeto é focado em responder as perguntas frequentes do site *FrontEnd Mentor*, usando o efeito acordeão para as perguntas. 
