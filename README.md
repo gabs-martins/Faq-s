@@ -12,7 +12,7 @@ O projeto é focado em responder as perguntas frequentes do site *FrontEnd Mento
 
 ## 📸ScreenShot
 
-![faq](https://github.com/gabs-martins/Faq-s/assets/116783837/490f2f5a-414a-4ce5-a9d4-8d81ae994548)
+![faqGif](https://github.com/gabs-martins/Faq-s/assets/116783837/afe48d65-7679-4510-a321-9ffec27b90dc)
 
 
 ## 👨🏽‍💻Tecnologias Utilizadas
